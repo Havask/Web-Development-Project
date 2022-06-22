@@ -1,0 +1,26 @@
+{
+  "title": "Light, fast & responsive",
+  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "section": [
+    {
+      "title": "Utvikling",
+      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "icon": "Dev.svg"
+    },
+    {
+      "title": "Design",
+      "content": "Bra design er viktig når man bygger en ny nettside. Vi leverer nettsider som både ser fin ut og intutativ å bruke.",
+      "icon": "design.svg"
+    },
+    {
+      "title": "SSL sertifikat",
+      "content": "Med et SSL sertifikat kan du være trygg på at kommunikasjonen mellom server og klient er trygg og sikker.",
+      "icon": "lock.svg"
+    },
+    {
+      "title": "Hosting",
+      "content": "Vi tar oss av  ",
+      "icon": "hosting.svg"
+    }
+  ]
+}
