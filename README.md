@@ -1,8 +1,6 @@
 # Company Website Builder
 
-This project was initiated with the goal of assisting companies that currently lack an online presence in establishing a robust web presence.
-
-Within this repository, you will find the codebase for the official website that showcases and delineates the features of the offered product and service."
+This project is a web application built using Next.js, a React framework. It provides a seamless development experience and efficient production-ready builds. This project was initiated with the goal of assisting companies that currently lack an online presence in establishing a robust web presence.
 
 # Project Name
 
