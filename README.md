@@ -1,6 +1,6 @@
 # Website development business
 
-This project was initiated with the goal of assisting companies that currently lack an online presence in establishing a robust web presence. This project is a web application built using Next.js, a React framework. It provides a seamless development experience and efficient production-ready builds. 
+This project was initiated with the goal of assisting companies that currently lack an online presence in establishing a robust web presence. This web application was built using Next.js, a React framework. It provides a seamless development experience and efficient production-ready builds. 
 
 # Project Name
 
