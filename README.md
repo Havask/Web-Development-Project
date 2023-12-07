@@ -11,7 +11,7 @@ Within this repository, you will find the codebase for the official website that
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone git@github.com:Havask/Web-Development-Project.git
     ```
 
 2. **Change into the project directory:**
